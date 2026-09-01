@@ -1,4 +1,6 @@
 # Security-Research-Blogs
 
 
-(LLMs for vulnerability research)[https://devansh.bearblog.dev/needle-in-the-haystack]
+[LLMs for Vulnerability Research](https://devansh.bearblog.dev/needle-in-the-haystack)
+
+[BlackStorm Research Blogs](https://blackstormsecurity.com/research)
