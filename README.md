@@ -16,3 +16,5 @@
 [Recovery Windows Machine](https://akchat.gitbook.io/dev/standalon-machines/recovery-windows)
 
 [Self Injection](https://r00tven0m.github.io/posts/Self_Injection)
+
+[Passing the OSAI Cert](https://mll.sh/passing-osai)
